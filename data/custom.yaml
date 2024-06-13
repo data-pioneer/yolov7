@@ -1,0 +1,6 @@
+train: C:\\Users\\91876\\Downloads\\MLOPS_Production_Ready_Data_Science_projects\\project_3\\MLops-Industry-Safety-Detection-using-Yolov7\\train.txt
+val: C:\\Users\\91876\\Downloads\\MLOPS_Production_Ready_Data_Science_projects\\project_3\\MLops-Industry-Safety-Detection-using-Yolov7\\val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+
